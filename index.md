@@ -91,5 +91,8 @@ During my undergraduate study, I have been actively engaged in almost 7 research
 During my undergraduate period, I started a school-level robotics lab and recruited 30 like-minded lab members, and we did many interesting things together. For example, we organized an open house where we invited 20 elementary school students to the lab and by explaining some of the basics of robotics, we hoped to stimulate their interest and exploration of mechanical, computer and scientific problems; Also, we hosted a reading festival at the school library which is open to the whole campus. In this festival, We build a book recommendation system by voice recognition, image classification and some other technologies, and we use this system to recommend the prespective book list for the participates.
 
 ## Contact
-yuansui08@gmail.com
-86+18141195692
+Email: yuansui08@gmail.com
+
+Phone: 86+18141195692
+
+Address: Wencong building, No.1, University Road, Science Park, Changqing District, Ji'nan, Shandong, China
