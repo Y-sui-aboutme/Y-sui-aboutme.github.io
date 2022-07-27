@@ -8,8 +8,8 @@ I’m interested in developing intelligent systems (**trustworthy AI**) that can
 
 ## Education
 
->**Shandong Normal University, School of Information Science and Technology (SDNU)**, Jinan, China 
-><span>B</span>.Sc. in, Computer Science, *2019 - 2023 (expected)*
+>**Shandong Normal University (SDNU)**, Jinan, China \
+>B.Sc. in, Computer Science and Technology, *2019 - 2023 (expected)*
 
 ## Selected Publications
 
@@ -62,6 +62,17 @@ Method for Resume, CN:CN202123275, 2022-5-28.
 ## Work Experience
 
 I am currently an intern at Dartmouth College, working with [Prof. Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/index.html) & Ph.D. candidate Weicheng Ma at [Minds, Machines and Society Lab](https://www.cs.dartmouth.edu/~soroush/Projects.html), and I will go for my next internship at Microsoft Research Asia working with [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/) at [DKI group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), starting from Winter 2022. Previously, I interned at [ICT, VIPL Group](https://vipl.ict.ac.cn) from the Chinese Academy of Sciences, working with [Prof. Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) & Ph.D. candidate Xinzhe Han; CAD & VC Group from Shandong Normal University, working with [Prof. Wei Yan](https://sarryyan.github.io/) & [Prof. Liang Zhang](https://faculty.sdu.edu.cn/zhangliang/en/index.htm).
+
+- MSRA, DKI, Visiting Intern Fellow; Expected from Aug 2020 to Dec 2022
+- Dartmouth, Minds, Machines and Society Lab,  Research Internship; June 2022 to present
+- ICT, VIPL, Chinese Academy of Sciences, Research Internship; From Mar 2022 to June 2022
+- SDNU, CAD & VC Group, Research Assistant; From Oct 2019 to Mar 2021
+
+## Project References
+
+
+## Activity
+During my undergraduate period, I started a school-level robotics lab and recruited 30 like-minded lab members, and we did many interesting things together. For example, we organized an open house where we invited 20 elementary school students to the lab and by explaining some of the basics of robotics, we hoped to stimulate their interest and exploration of mechanical, computer and scientific problems; Also, we hosted a reading festival at the school library which is open to the whole campus. In this festival, We build a book recommendation system by voice recognition, image classification and some other technologies, and we use this system to recommend the prespective book list for the participates.
 
 ## Contact
 yuansui08@gmail.com
