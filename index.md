@@ -2,122 +2,67 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Research Interests
 
-[Link to another page](./another-page.html).
+I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of information extraction, knowledge graphs, robustness, semantic parsing, etc. Besides, I am also interested in causal inference and transfer learning topics. 
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+>**Shandong Normal University, School of Information Science and Technology (SDNU)**, Jinan, China 
+><span>B</span>.Sc. in, Computer Science, *2019 - 2023 (expected)*
 
-# Header 1
+## Selected Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**<span class="smallcaps">Published:</span>**
 
-## Header 2
+**Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
+‘Causality-aware Enhanced Model for Multi-hop Question Answering over
+Knowledge Graphs’, Knowledge-Based Systems, vol. 250, p. 108943.
+**\[SCI-1, IF:8.139\]**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Sui, Y**, Bu, F, Hu, Y, Zhang, L & Yan, W n.d., Trigger-GNN: A
+Trigger-Based Graph Neural Network for Nested Named Entity Recognition,
+2022 International Joint Conference on Neural Networks (IJCNN),
+**\[Oral, Core-ranking:B\]**
 
-### Header 3
+**Sui, Y**, Bu, F, Shao, X & Yan, W n.d., ‘Optimization simulation of
+reflow welding based on prediction of regional center temperature
+field’, Computer Simulation.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Sui, Y** 2021, ‘Question answering system based on tourism knowledge
+graph’, Journal of Physics: Conference Series, vol. 1883, no. 1, p.
+012064.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**<span class="smallcaps">Under-reviewed:</span>**
 
-#### Header 4
+**Sui, Y**, Wang, S, Cheng, Reynold n.d., ‘Learning Causal
+Representations for Knowledge Graph-based Question Answering’, In
+Proceedings of the 31th ACM International Conference on Information &
+Knowledge Management (CIKM ’22) **\[Core-ranking:A\]**
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Yan, W, Shi, Y, **Sui, Y**, Tian, Z, Wang, W & Cao, Q n.d., ‘Intelligent
+Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge
+Graph’, Robotics and Computer Integrated Manufacturing. **\[SCI-1,
+IF:10.103\]**
 
-##### Header 5
+Yan, W, **Sui, Y**, Cao, Q & Zhang, L n.d., ‘Automatic Relation
+Recognition for Inventive Design.’, Knowledge-Based Systems **\[SCI-1,
+IF:8.139\]**
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**<span class="smallcaps">Patents:</span>**
 
-###### Header 6
+**Sui, Y**, Shi, Y, Niu, S, Liang, N & Cheng, X, Intelligent Q&A method
+and system based on tourism knowledge graph., CN: CN202110739738,
+2022-6-21.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Song A, Li, Z, **Sui, Y**, Jiang X & Hu Q, Named Entity Recognition
+Method for Resume, CN:CN202123275, 2022-5-28.
 
 
-### Definition lists can be used with HTML syntax.
+## Work Experience
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+I am currently an intern at Dartmouth College, working with [Prof. Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/index.html) & Ph.D. candidate Weicheng Ma at [Minds, Machines and Society Lab](https://www.cs.dartmouth.edu/~soroush/Projects.html), and I will go for my next internship at Microsoft Research Asia working with [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/) at [DKI group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), starting from Winter 2022. Previously, I interned at [ICT, VIPL Group](https://vipl.ict.ac.cn) from the Chinese Academy of Sciences, working with [Prof. Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) & Ph.D. candidate Xinzhe Han; CAD & VC Group from Shandong Normal University, working with [Prof. Wei Yan](https://sarryyan.github.io/) & [Prof. Liang Zhang](https://faculty.sdu.edu.cn/zhangliang/en/index.htm).
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact
+yuansui08@gmail.com
+86+18141195692
