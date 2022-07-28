@@ -11,7 +11,7 @@ I’m interested in developing intelligent systems (**trustworthy AI**) that can
 >**Shandong Normal University (SDNU)**, Jinan, China \
 >B.Sc. in, Computer Science and Technology, *2019 - 2023 (expected)*
 
-## Selected Publications
+## Publications
 
 **<span class="smallcaps">Published:</span>**
 
