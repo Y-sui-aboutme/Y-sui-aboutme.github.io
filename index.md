@@ -4,7 +4,7 @@ layout: default
 
 ## Research Interests
 
-I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of <u>_information extraction_</u>, <u>_knowledge representation learning_</u>, <u>_graph-neural network_</u>, <u>_semantic parsing_</u>, etc. Besides, I am also interested in <u>_causal inference_</u>, <u>_interpretability and robustness of the ptms_</u> and <u>_transfer learning_</u> topics. 
+I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of _<u>information extraction</u>_, _<u>knowledge representation learning</u>_, _<u>graph-neural network</u>_, _<u>semantic parsing</u>_, etc. Besides, I am also interested in _<u>causal inference</u>_, _<u>interpretability and robustness of the ptms</u>_ and _<u>transfer learning</u>_ topics. 
 
 ## Education
 
