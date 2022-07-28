@@ -4,14 +4,14 @@ layout: default
 
 ## Research Interests
 
-I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of information extraction, knowledge graphs, robustness, semantic parsing, etc. Besides, I am also interested in causal inference and transfer learning topics. 
+I’m interested in developing intelligent systems (**trustworthy AI**) that can demonstrate a deep understanding of the world with common-sense knowledge and reasoning ability by teaching machines to think, talk, and act as humans do. To this end, I am really interested in integrating techniques of _<u>information extraction</u>_, _<u>knowledge representation learning</u>_, _<u>graph-neural network</u>_, _<u>semantic parsing</u>_, etc. Besides, I am also interested in _<u>causal inference</u>_, _<u>interpretability and robustness of the ptms</u>_ and _<u>transfer learning</u>_ topics. 
 
 ## Education
 
 >**Shandong Normal University (SDNU)**, Jinan, China \
 >B.Sc. in, Computer Science and Technology, *2019 - 2023 (expected)*
 
-## Selected Publications
+## Publications
 
 **<span class="smallcaps">Published:</span>**
 
@@ -61,7 +61,9 @@ Method for Resume, CN:CN202123275, 2022-5-28.
 
 ## Work Experience
 
-I am currently an intern at Dartmouth College, working with [Prof. Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/index.html) & Ph.D. candidate Weicheng Ma at [Minds, Machines and Society Lab](https://www.cs.dartmouth.edu/~soroush/Projects.html), and I will go for my next internship at Microsoft Research Asia working with [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/) at [DKI group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), starting from Winter 2022. Previously, I interned at [ICT, VIPL Group](https://vipl.ict.ac.cn) from the Chinese Academy of Sciences, working with [Prof. Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) & Ph.D. candidate Xinzhe Han; CAD & VC Group from Shandong Normal University, working with [Prof. Wei Yan](https://sarryyan.github.io/) & [Prof. Liang Zhang](https://faculty.sdu.edu.cn/zhangliang/en/index.htm).
+I am currently an intern at Dartmouth College, working with [Prof. Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/index.html) & Ph.D. candidate Weicheng Ma at [Minds, Machines and Society Lab](https://www.cs.dartmouth.edu/~soroush/Projects.html), and I will go for my next internship at Microsoft Research Asia working with [Dr. Mengyu Zhou](https://www.microsoft.com/en-us/research/people/mezho/) at [DKI group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), starting from Winter 2022. 
+
+Previously, I interned at [ICT, VIPL Group](https://vipl.ict.ac.cn) from the Chinese Academy of Sciences, working with [Prof. Shuhui Wang](https://vipl.ict.ac.cn/people/shwang/) & Ph.D. candidate Xinzhe Han; CAD & VC Group from Shandong Normal University, working with [Prof. Wei Yan](https://sarryyan.github.io/) & [Prof. Liang Zhang](https://faculty.sdu.edu.cn/zhangliang/en/index.htm).
 
 - MSRA, DKI, Visiting Intern Fellow; Expected from Aug 2020 to Dec 2022
 - Dartmouth, Minds, Machines and Society Lab,  Research Internship; June 2022 to present
@@ -71,24 +73,26 @@ I am currently an intern at Dartmouth College, working with [Prof. Soroush Vosou
 ## Project References
 During my undergraduate study, I have been actively engaged in almost 7 research projects involved in the area of **NLP, KB (KG), ML, GNN & Causal-commonsence**. Really thanks to all my advisors for giving me such opportunities to get into these topics.
 
-<span class="smallcaps">[1] Learning Causal Representations for Knowledge Graph-based Question Answering</span>
-
-<span class="smallcaps">[2] Semantic Parsing for Knowledge Graph-based Question Answering</span>
-
-<span class="smallcaps">[3] Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Entity Recognition</span>
-
-<span class="smallcaps">[4] Intelligent Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge Graph</span>
-
-<span class="smallcaps">[5] Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</span>**
-
-<span class="smallcaps">[6] Reflow Soldering Optimization Simulation based on Zone Center Temperature Prediction</span>
-
-<span class="smallcaps">[7] IngeniousMatch: Automatic Entity Matching for TRIZ knowledge</span>
+>[1] Learning Causal Representations for Knowledge Graph-based Question Answering [[codes]](), [[slides]](), (2021-02 -- 2022-03)
+>
+>[2] Semantic Parsing for Knowledge Graph-based Question Answering [[codes]](https://github.com/Y-Sui/Semantic-Parsing-for-KGQA), (2022-03 -- 2022-07)
+>
+>[3] Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Entity Recognition [[slides]](https://arxiv.org/pdf/2204.05518) (2021-05 -- 2022-02)
+>
+>[4] Intelligent Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge Graph [[slides]]() (2021-08 -- 2022-02)
+>
+>[5] Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks [[codes]](https://github.com/Y-Sui/eval-probing), [[slides]](assets\pdf\19-probes.pdf) (2022-06 -- Present)
+>
+>[6] Reflow Soldering Optimization Simulation based on Zone Center Temperature Prediction [[codes]](), [[slides]]() (2021-08 -- 2022-03)
+>
+>[7] IngeniousMatch: Automatic Entity Matching for TRIZ knowledge (2020-10 -- 2022-06)
 
 
 
 ## Activity
-During my undergraduate period, I started a school-level robotics lab and recruited 30 like-minded lab members, and we did many interesting things together. For example, we organized an open house where we invited 20 elementary school students to the lab and by explaining some of the basics of robotics, we hoped to stimulate their interest and exploration of mechanical, computer and scientific problems; Also, we hosted a reading festival at the school library which is open to the whole campus. In this festival, We build a book recommendation system by voice recognition, image classification and some other technologies, and we use this system to recommend the prespective book list for the participates.
+During my undergraduate period, I started a school-level robotics lab and recruited 30 like-minded lab members, and we did many interesting things together. For example, we organized an **"open day"** where we invited 20 elementary school students to the lab and by explaining some of the basics of robotics, we hoped to stimulate their interest and exploration of mechanical, computer and scientific problems; Also, we **hosted a reading festival** at the school library which is open to the whole campus. In this festival, We build a book recommendation system by voice recognition, image classification and some other technologies, and we use this system to recommend the prespective book list for the participates.
+
+
 
 ## Contact
 Email: yuansui08@gmail.com
