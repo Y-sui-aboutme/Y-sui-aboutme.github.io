@@ -71,17 +71,17 @@ I am currently an intern at Dartmouth College, working with [Prof. Soroush Vosou
 ## Project References
 During my undergraduate study, I have been actively engaged in almost 7 research projects involved in the area of **NLP, KB (KG), ML, GNN & Causal-commonsence**. Really thanks to all my advisors for giving me such opportunities to get into these topics.
 
-<span class="smallcaps">[1] Learning Causal Representations for Knowledge Graph-based Question Answering</span>
+<span class="smallcaps">[1] Learning Causal Representations for Knowledge Graph-based Question Answering</span> [[codes]]() | [[slides]]()
 
-<span class="smallcaps">[2] Semantic Parsing for Knowledge Graph-based Question Answering</span>
+<span class="smallcaps">[2] Semantic Parsing for Knowledge Graph-based Question Answering</span> [[codes]](https://github.com/Y-Sui/Semantic-Parsing-for-KGQA)
 
-<span class="smallcaps">[3] Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Entity Recognition</span>
+<span class="smallcaps">[3] Trigger-GNN: A Trigger-Based Graph Neural Network for Nested Entity Recognition</span> [[slides]](https://arxiv.org/pdf/2204.05518)
 
-<span class="smallcaps">[4] Intelligent Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge Graph</span>
+<span class="smallcaps">[4] Intelligent Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge Graph</span> [[slides]]()
 
-<span class="smallcaps">[5] Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</span>**
+<span class="smallcaps">[5] Contributions of Transformer Attention Heads in Multi- and Cross-lingual Tasks</span> [[codes]](https://github.com/Y-Sui/eval-probing) | [[slides]](assets\pdf\19-probes.pdf)
 
-<span class="smallcaps">[6] Reflow Soldering Optimization Simulation based on Zone Center Temperature Prediction</span>
+<span class="smallcaps">[6] Reflow Soldering Optimization Simulation based on Zone Center Temperature Prediction</span> [[codes]]() | [[slides]]()
 
 <span class="smallcaps">[7] IngeniousMatch: Automatic Entity Matching for TRIZ knowledge</span>
 
