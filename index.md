@@ -15,10 +15,10 @@ I’m interested in developing intelligent systems (**trustworthy AI**) that can
 
 **<span class="smallcaps">Published:</span>**
 
-**Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
+<!-- **Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
 ‘Causality-aware Enhanced Model for Multi-hop Question Answering over
 Knowledge Graphs’, Knowledge-Based Systems, vol. 250, p. 108943.
-**\[SCI-1, IF:8.139\]**
+**\[SCI-1, IF:8.139\]** -->
 
 **Sui, Y**, Bu, F, Hu, Y, Zhang, L & Yan, W n.d., Trigger-GNN: A
 Trigger-Based Graph Neural Network for Nested Named Entity Recognition,
@@ -39,6 +39,8 @@ graph’, Journal of Physics: Conference Series, vol. 1883, no. 1, p.
 Representations for Knowledge Graph-based Question Answering’, In
 Proceedings of the 31th ACM International Conference on Information &
 Knowledge Management (CIKM ’22) **\[Core-ranking:A\]**
+
+**Sui, Y**, Ma, W, Lou, R, Zhang, K, Vosoughi, S, 'Trustworthy-transformer: Probing Transformer Attention Heads in Multi- and Cross-lingual Tasks', In proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP '22) **\[Core-ranking:A\]**
 
 Yan, W, Shi, Y, **Sui, Y**, Tian, Z, Wang, W & Cao, Q n.d., ‘Intelligent
 Predictive Maintenance of Hydraulic Systems based on Virtual Knowledge
