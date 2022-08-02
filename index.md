@@ -15,10 +15,10 @@ I’m interested in developing intelligent systems (**trustworthy AI**) that can
 
 **<span class="smallcaps">Published:</span>**
 
-<!-- **Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
+**Sui, Y**, Feng, S, Zhang, H, Cao, J, Hu, L & Zhu, N 2022,
 ‘Causality-aware Enhanced Model for Multi-hop Question Answering over
 Knowledge Graphs’, Knowledge-Based Systems, vol. 250, p. 108943.
-**\[SCI-1, IF:8.139\]** -->
+**\[SCI-1, IF:8.139\]**
 
 **Sui, Y**, Bu, F, Hu, Y, Zhang, L & Yan, W n.d., Trigger-GNN: A
 Trigger-Based Graph Neural Network for Nested Named Entity Recognition,
